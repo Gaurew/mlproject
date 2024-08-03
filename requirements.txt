@@ -1,0 +1,5 @@
+pandas
+seaborn
+numpy
+-e .
+# -e tells the install process that we have setup.py so do that part as well
